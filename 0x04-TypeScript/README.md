@@ -3,8 +3,8 @@
 
 JavaScriptTypeScript
 
-- By Dev Nderitu
-
+- By Kim Njuguna
+  
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220622T092938Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b0dc61d63714a5b11570ceda3740c63a6dfa6484a71edf21d0427d98cb5f3409)
 
 Resources
